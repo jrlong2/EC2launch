@@ -5,8 +5,9 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 
 <h2>Platforms, Languages and Utilities Used</h2>
 
-- <b>AWS</b> 
+- <b>AWS Console</b> 
 - <b>Lambda</b>
+- <b>CloudWatch</b>
 - <b>Python</b>
 
 <h2>Links</h2>
