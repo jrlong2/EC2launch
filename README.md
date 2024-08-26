@@ -15,6 +15,6 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 - [AWS Free Tier](https://aws.amazon.com/free/?gclid=CjwKCAjwoJa2BhBPEiwA0l0ImAqWK76W8Hd5au_szTp0OtoKWeiGKz8chl9Mum2LlDr5N60WTUeflBoCxbsQAvD_BwE&trk=f42fef03-b1e6-4841-b001-c44b4eccaf41&sc_channel=ps&ef_id=CjwKCAjwoJa2BhBPEiwA0l0ImAqWK76W8Hd5au_szTp0OtoKWeiGKz8chl9Mum2LlDr5N60WTUeflBoCxbsQAvD_BwE:G:s&s_kwcid=AL!4422!3!637354294245!e!!g!!aws%20trial!19044205571!139090166770&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 - [Python](https://www.python.org/)
 
-<h2>Walk-through<h2>
+<h2>Walk-through</h2>
 
-
+ 1. Author a Lambda function in Python
