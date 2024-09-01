@@ -26,3 +26,5 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/cd6a43da1ee98dee1c635d2c510c76f371fd7b79/Images/2.%20Create%20a%20function.png)
 <br />
  - I will choose the "Author from scratch" option because I have the code already (which we'll see later in this session).
+
+![Image alt]
