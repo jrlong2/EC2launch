@@ -20,5 +20,8 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 <b>1. Author a Lambda function in Python</b>
 - From the AWS Management Console type Lambda in the search box, select "Lambda" and in the Lambda Console 👇 click "Create function".
 
-![Image alt](https://github.com/jrlong2/EC2launch/blob/d0c963e09b0c643ea678fef1d1347929a1c8ab60/Images/lambda1.jpg)
-![Image alt]
+![Image alt](https://github.com/jrlong2/EC2launch/blob/d0c963e09b0c643ea678fef1d1347929a1c8ab60/Images/lambda1.jpg)<br />
+<br />
+
+![Image alt](https://github.com/jrlong2/EC2launch/blob/cd6a43da1ee98dee1c635d2c510c76f371fd7b79/Images/2.%20Create%20a%20function.png)
+<br />
