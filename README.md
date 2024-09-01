@@ -35,5 +35,7 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 <br />
  - Under Permissions, expand "Change default execution role".
    - Anytime a Lambda function runs, it  will assume an execution role to determine its access permissions. (e.g., what it can do, what it has access to)
+ - In this case I'll select "Create a new role with basic Lambda permissions".
+   - This will give the Lambda function access to Amazon CloudWatch logs.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/3b69067e83abcbc41043b085dbc942b8831a7623/Images/4.%20Create%20a%20function.png)
