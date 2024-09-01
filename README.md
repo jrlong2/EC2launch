@@ -27,5 +27,7 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 <br />
 <br />
  - I will choose the "Author from scratch" option because I have the code already (which we'll see later in this session).
+ - Under Function name type "myFunction" (this name is used only for the purpose of this lab).
+ - Under Runtime make sure to select the latest version of Python from the dropdown menu.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/7346c13f81eb25f4eb8dd245aa7c8a2a0a5966a2/Images/3.%20Create%20a%20function.png)
