@@ -31,3 +31,9 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
  - Under Runtime make sure to select the latest version of Python from the dropdown menu.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/7346c13f81eb25f4eb8dd245aa7c8a2a0a5966a2/Images/3.%20Create%20a%20function.png)
+<br />
+<br />
+ - Under Permissions, expand "Change default execution role".
+   - Anytime a Lambda function runs, it  will assume an execution role to determine its access permissions. (e.g., what it can do, what it has access to)
+
+![Image alt](https://github.com/jrlong2/EC2launch/blob/3b69067e83abcbc41043b085dbc942b8831a7623/Images/4.%20Create%20a%20function.png)
