@@ -40,3 +40,9 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
    - This will give the Lambda function access to Amazon CloudWatch logs.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/3b69067e83abcbc41043b085dbc942b8831a7623/Images/4.%20Create%20a%20function.png)
+<br />
+<br />
+- Scroll down and click "Create function".
+  - We don't need to select any of the advanced settings for this simple scenario.
+
+
