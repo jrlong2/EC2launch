@@ -50,5 +50,7 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 <br />
 - Now the function has been created successfully.
 
+![Image alt](https://github.com/jrlong2/EC2launch/blob/d6287fbd0da29e4efacfccf9500fca6ebbbf7d95/Images/6.%20Function%20Created%20Successfully.png)
+
 
 
