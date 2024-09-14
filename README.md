@@ -42,7 +42,7 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/3b69067e83abcbc41043b085dbc942b8831a7623/Images/4.%20Create%20a%20function.png)
 <br />
 <br />
-- Scroll down and click "Create function".
+- Scroll down and click "Create function" on the lower right of the screen.
   - We don't need to select any of the advanced settings for this simple scenario.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/78ff29ce5a642d5f002ce94438220f902833c037/Images/5.%20Create%20a%20function.png)
