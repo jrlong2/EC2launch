@@ -51,6 +51,12 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 - Now the function has been created successfully.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/d6287fbd0da29e4efacfccf9500fca6ebbbf7d95/Images/6.%20Function%20Created%20Successfully.png)
+<br />
+<br />
+- Scroll down to where you see the tabs (Code, Test, Monitor, etc.), and make sure the "Code" tab is selected.
+- Under Code source in the box on the left and under the "myFunction" folder, double-click lambda_function.py to view the sample code.
+  - I already have the code I'm going to use so I won't be using the sample code.
 
+![Image alt](https://github.com/jrlong2/EC2launch/blob/d89684aa168404b490fee18054c45947a998dfb4/Images/Function%20Dashboard.png)
 
 
