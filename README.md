@@ -59,5 +59,7 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/d89684aa168404b490fee18054c45947a998dfb4/Images/Function%20Dashboard.png)
 <br />
 <br />
-
-
+- Replace the sample code with this:
+  [Function code](https://github.com/ACloudGuru-Resources/content-aws-certified-cloud-practioner/blob/main/labs/create-a-lambda-function-with-the-aws-management-console/lambda_function.py)
+- Click Deploy.
+![Image alt]()
