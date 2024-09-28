@@ -62,5 +62,6 @@ This lab focuses on authoring a Lambda function using Python in the AWS console.
 - Replace the sample code with this:
   [Function code](https://github.com/ACloudGuru-Resources/content-aws-certified-cloud-practioner/blob/main/labs/create-a-lambda-function-with-the-aws-management-console/lambda_function.py)
 - Click Deploy.
+  - Make sure to keep the "import json" line at the top.
 
 ![Image alt](https://github.com/jrlong2/EC2launch/blob/61becc176478c30545337d911b278741df7c4b6c/Images/Code%20Pasted.png)
